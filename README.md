@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Software development,frontend development and machine learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jayathuc/jayathuc](https://github.com/jayathuc/jayathuc)
+- 👨‍💻 All of my projects are available at [https://github.com/jayathuc](https://github.com/jayathuc)
 
 - 💬 Ask me about **Language models**
 
